@@ -1,0 +1,9 @@
+img{
+    width: 600px;
+}
+.detail{
+    height: 0px;
+    display: flex;
+    text-align: justify;
+    margin-left: 60%;
+}

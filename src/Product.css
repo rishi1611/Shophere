@@ -1,0 +1,19 @@
+.Product{
+    display: flexbox;
+    flex-direction: row;
+    
+}
+.detailView{
+    
+    width: 75%;
+    justify-content: flex-end;
+    position: fixed;
+    overflow-y: auto;
+    z-index: 2;
+    background-color: rgb(226, 235, 236) solid;
+}
+.listView{
+    width: 25%;
+    justify-content: flex-start;
+    z-index: 1;
+}
